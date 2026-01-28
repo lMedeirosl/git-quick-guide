@@ -103,7 +103,10 @@ git commit -m "mensagem do commit"
 ```bash
 git push
 ```
-
+6. Outros importantes
+```bash
+ls - mostra em qual pasta está
+```
 ## ❻ Branches (básico)
 
 ### 1. O que é uma branch
